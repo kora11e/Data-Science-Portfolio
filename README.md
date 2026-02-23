@@ -4,8 +4,12 @@ Hello! My name is Karol and I want to share my ever growing Data-oriented portfo
 
 <br>
 
+## Classification and prediction Model Training with FastAPI
+
 ## Webscraping with Beautiful Soup
 
-## Apache 
+## Apache Big Data Cosine Similarity 
 
-## 
+## Youtube Comments Sentiment Analysis
+
+## Bottle Framework Frontend Web Application
