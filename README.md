@@ -13,3 +13,5 @@ Hello! My name is Karol and I want to share my ever growing Data-oriented portfo
 ## [Youtube Comments Sentiment Analysis](https://github.com/kora11e/Sentiment-Analysis-over-Youtube-Comments)
 
 ## [Kafka Stock Cloud Simulation](https://github.com/kora11e/Kafka-Stock-Cloud-Simulation)
+
+## [SQL Shop Database](https://github.com/kora11e/SQL-Shop-Database)
