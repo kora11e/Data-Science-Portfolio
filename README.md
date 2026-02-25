@@ -9,8 +9,8 @@ Hello! My name is Karol and I want to share my ever growing Data-oriented portfo
 - Technologies: Python, FastAPI, XGBoost, PyTorch, Docker, Kubernetes, Grafana
   
 ## [Youtube Comments Sentiment Analysis](https://github.com/kora11e/Sentiment-Analysis-over-Youtube-Comments)
-- Overview:
-- Technologies:
+- Overview: The project's goal is to dive into the data associated with Commentary under political videos displayed on Youtube Platform and perform analysis of it using techniques of Natural Language Processing. The project was developed during NLP classes and serves as the final result of it.
+- Technologies: Python, NLTK, Pandas, sklearn
 - 
 ## [Apache Big Data Cosine Similarity Finder](https://github.com/kora11e/Apache-Big-Data-Cosine-Similarity-Calculator)
 - Overview: Apache Spark was used to perform ETL of film data on EMR Cluster from AWS. The analysis included 27 mln ratings for 58k titles. The goal was to find the most similar film.
