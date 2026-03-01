@@ -5,7 +5,7 @@ Hello! My name is Karol and I want to share my ever growing Data-oriented portfo
 <br>
 
 ## [Classification and prediction Model Training with FastAPI](https://github.com/kora11e/Machine-Learning-Fast-API-Modeling)
-- Overview: Built backend structure for trained ML models: XGBoost, Random Forest, custom Deep Neural Network with NAS optimization. Trained classification and regression models with hyperparameter tuning. Optimized models with neuron weight pruning. Containerized application backend to Docker, orchestrated with Kubernetes and monitored with Grafana.
+- Overview: Built backend structure for trained ML models: XGBoost, Random Forest, custom Deep Neural Network with NAS optimization. Trained classification and regression models with hyperparameter tuning. Optimized models with neuron weight pruning. Containerized application backend to Docker, orchestrated with Kubernetes and monitored with Grafana. The model follows MLOps good practices.
 - Technologies: Python, FastAPI, XGBoost, PyTorch, Docker, Kubernetes, Grafana
   
 ## [Youtube Comments Sentiment Analysis](https://github.com/kora11e/Sentiment-Analysis-over-Youtube-Comments)
